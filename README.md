@@ -11,7 +11,7 @@
 ##### 2. Pretrained *Sentence classification model for RCT abstracts* available.  
 
 #### _Major updates coming soon ^\_^:_ 
-More modules coming soon for representing medical evidence information comprehensively from RCT abstracts._
+_More modules coming soon for representing medical evidence information comprehensively from RCT abstracts._
   
 
 ---
